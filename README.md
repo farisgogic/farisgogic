@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Faris Gogić  
 
-I’m a passionate and driven **Software Developer** in my final year at the **Faculty of Information Technology in Mostar**, specializing in software development. My expertise lies in designing and building scalable, user-focused applications, strongly emphasizing clean code, reusability, and modern development practices.  
+I’m a passionate and driven Software Developer with a Bachelor's degree in Information Technology from the Faculty of Information Technology in Mostar. I specialize in designing and building scalable, user-focused applications with a strong emphasis on clean code, reusability, and modern development practices. 
 
 ---
 
 ## 🚀 What I Bring to the Table  
-With a solid foundation in front and backend development, I’ve worked on projects ranging from web and mobile apps to full-stack systems. I strive to stay at the cutting edge of technology, continuously expanding my skill set to deliver high-quality, innovative solutions.  
+With a solid foundation in both front-end and back-end development, I’ve worked on a wide range of projects, including web and mobile apps as well as full-stack systems. I’m committed to staying at the forefront of technology and continuously enhancing my skills to provide innovative solutions. 
 
 ---
 
