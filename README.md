@@ -2,7 +2,7 @@
 
 <h1>👋 Hello, I'm <b>Faris Gogić</b></h1>
 <p>
-  Software Developer • Focused on <b>UI/UX</b>, clean code, and sustainable solutions<br/>
+  Software Developer • Focused on clean code, and sustainable solutions<br/>
   I love turning ideas into elegant, user‑centered digital products.
 </p>
 
