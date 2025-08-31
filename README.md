@@ -140,11 +140,11 @@
   <a href="https://github.com/farisgogic/Cinematon">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=farisgogic&repo=Cinematon&theme=transparent" alt="Cinematon" />
   </a>
-  <a href="https://github.com/farisgogic/fareToDoApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=farisgogic&repo=fareToDoApp&theme=transparent" alt="fareToDoApp" />
+  <a href="https://github.com/farisgogic/To-Do">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=farisgogic&repo=fareToDoApp&theme=transparent" alt="ToDoApp" />
   </a>
   <a href="https://github.com/farisgogic/eDostavaFlutter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=farisgogic&repo=eDostavaFlutter&theme=transparent" alt="eDostavaFlutter" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=farisgogic&repo=eDostavaFlutter&theme=transparent" alt="eDostava" />
   </a>
 </div>
 
