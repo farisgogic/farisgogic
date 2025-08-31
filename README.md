@@ -94,10 +94,10 @@
 - **Cinematon** — creative exploration of advanced coding principles  
   `repo`: [github.com/farisgogic/Cinematon](https://github.com/farisgogic/Cinematon)
 
-- **fareToDoApp** — task management with a full‑stack approach  
+- **To-Do App** — task management with a full‑stack approach  
   `repo`: [github.com/farisgogic/fareToDoApp](https://github.com/farisgogic/fareToDoApp)
 
-- **eDostavaFlutter** — end‑to‑end system: UI design, data control, application build  
+- **eDostava** — end‑to‑end system: UI design, data control, application build  
   Tech: **C#**, **Windows Forms**, **Flutter**, **SQL**  
   `repo`: [github.com/farisgogic/eDostavaFlutter](https://github.com/farisgogic/eDostavaFlutter)
 
